@@ -1,0 +1,2 @@
+# gentoolinux-install
+p
